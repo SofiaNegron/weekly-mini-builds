@@ -4,12 +4,6 @@ A collection of small weekly projects I’m building to practice Python and web 
 
 The goal of this repository is not to make every project huge or perfect. Each mini build is a small, finished project focused on one skill, one theme, and one learning outcome.
 
-## 🍃 Current Focus
-
-- Python fundamentals
-- HTML/CSS/JavaScript
-- Project documentation
-
 ## 📝 Projects
 
 | Week | Project | Skills |
